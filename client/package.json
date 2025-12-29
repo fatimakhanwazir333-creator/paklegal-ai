@@ -1,0 +1,10 @@
+{
+  "name": "paklegal-client",
+  "private": true,
+  "scripts": {
+    "build": "vite"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
